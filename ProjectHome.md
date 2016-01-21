@@ -1,0 +1,1 @@
+La production et la fourniture d’un site web marchand. Le service demandé par la direction commerciale de l’organisation est la consultation par ses clients de ses produits, la prise de commande et le paiement en ligne.
